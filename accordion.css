@@ -1,0 +1,9 @@
+
+.accordion__collapse {
+  background-color: #7a7777;
+}
+
+.accordion__body p {
+  padding: 30px;
+  margin: 0;
+}
